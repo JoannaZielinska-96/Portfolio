@@ -1,13 +1,18 @@
 # Portfolio
 
   1. [About me](#about-me)
+  2. [Tech skills](#tech-skills)
+  3. [Soft skills](#soft-skills)
+  4. [Tools](#tools)
+  5. [My projects](#my-projects)
+  6. [Courses](#courses)
+  7. [Linkedin](#linkedin)
 
 ## About me
 
 Master of science with +3 years experience working in the transportation industry.<br>I seek out new knowledge and actively develop new skills. <br>I am currently self-learning of software testing. 
 
 I am person who consistently strive to achieve goals and eagerly take on new challenges.<br>I've always had an interest in problem solving, so I decided to start learning of software testing. 
-
 
 ## Tech skills
 <ul>
@@ -32,18 +37,6 @@ I am person who consistently strive to achieve goals and eagerly take on new cha
   <li>Critical Thinking</li>
 </ul>
 
-## My projects
-
-<b>Test cases examples</b>
-
-1. Test cases of [dietly](https://dietly.pl/)<br>
-The [dietly](https://dietly.pl/) webshop was used to write test cases. 
-<br>You can check my test cases on Google Sheets document [here](https://docs.google.com/spreadsheets/d/1Zlivk_jbTk4BQbYtEU37qjzy5HCWL6jl/edit?usp=sharing&ouid=113012034084680806752&rtpof=true&sd=true).
-
-<b>Bug reports and work in Jira</b>
-
-<b>Mindmaps and diagrams</b>
-
 ## Tools:
 
 <ul>
@@ -62,6 +55,18 @@ Chrome Dev Tools:
 <li><a href="https://chrome.google.com/webstore/detail/awesome-screenshot-and-sc/nlipoenfbbikpbjkfpfillcgkoblgpmj">Awesome Screenshot and Screen Recorder</a> - Screen recorder and screen capture tool;</li>
 <li><a href="https://chrome.google.com/webstore/detail/bug-magnet/efhedldbjahpgjcneebmbolkalbhckfi?hl=pl">Bug magnet</a> - Exploratory testing tool;</li>
 </ul>
+
+## My projects
+
+<b>Test cases examples</b>
+
+1. Test cases of [dietly](https://dietly.pl/)<br>
+The [dietly](https://dietly.pl/) webshop was used to write test cases. 
+<br>You can check my test cases on Google Sheets document [here](https://docs.google.com/spreadsheets/d/1Zlivk_jbTk4BQbYtEU37qjzy5HCWL6jl/edit?usp=sharing&ouid=113012034084680806752&rtpof=true&sd=true).
+
+<b>Bug reports and work in Jira</b>
+
+<b>Mindmaps and diagrams</b>
 
 ## Courses 
 
