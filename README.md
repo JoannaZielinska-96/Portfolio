@@ -60,13 +60,18 @@ Chrome Dev Tools:
 
 <b>Test cases examples</b>
 
-1. Test cases of [dietly](https://dietly.pl/)<br>
+  1. Test cases of [dietly](https://dietly.pl/):<br><br>
 The [dietly](https://dietly.pl/) webshop was used to write test cases. 
 <br>You can check my test cases on Google Sheets document [here](https://docs.google.com/spreadsheets/d/1Zlivk_jbTk4BQbYtEU37qjzy5HCWL6jl/edit?usp=sharing&ouid=113012034084680806752&rtpof=true&sd=true).
 
 <b>Bug reports and work in Jira</b>
 
 <b>Mindmaps and diagrams</b>
+
+<b>Databases</b>
+
+  1. Database of transport companies specializing in the transport of food products
+You can check my database on github repository [here](https://github.com/JoannaZielinska-96/Food-Transportation). 
 
 ## Courses 
 
