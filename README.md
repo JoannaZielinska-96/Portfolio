@@ -74,7 +74,7 @@ The [dietly](https://dietly.pl/) webshop was used to write test cases.
 
 <b>Databases</b>
 
-  1. Database of transport companies specializing in the transport of food products
+  1. Database of transport companies specializing in the transport of food products<br>
 You can check my database on github repository [here](https://github.com/JoannaZielinska-96/Food-Transportation). 
 
 ## Courses 
