@@ -74,6 +74,9 @@ Check the bug reports in Jira [here](https://drive.google.com/drive/folders/1cfw
 
 <b>Mindmaps and diagrams</b>
 
+* Activity diagram - [a delivery process](https://drive.google.com/file/d/1Yq6q5Ukw73GNYGrrECilq6bBU8ats4ER/view?usp=sharing)
+
+
 <b>Databases</b>
 
   1. Database of transport companies specializing in the transport of food products:<br><br>
