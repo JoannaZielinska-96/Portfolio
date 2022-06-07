@@ -59,25 +59,25 @@ Chrome Dev Tools:
 
 ## My projects
 
-<b>Test cases examples</b>
+<b>Test cases and work in Jira</b>
 
-  1. Test cases of [dietly](https://dietly.pl/):<br>
-The [dietly](https://dietly.pl/) webshop was used to write test cases. 
-<br>You can check my test cases on Google Sheets document [here](https://docs.google.com/spreadsheets/d/1Zlivk_jbTk4BQbYtEU37qjzy5HCWL6jl/edit?usp=sharing&ouid=113012034084680806752&rtpof=true&sd=true).
+  1. Test cases of [dietly](https://dietly.pl/):<br><br>
+The [dietly](https://dietly.pl/) webshop was used to write test cases.<br>
+Check the test cases on Google Sheets document [here](https://docs.google.com/spreadsheets/d/1Zlivk_jbTk4BQbYtEU37qjzy5HCWL6jl/edit?usp=sharing&ouid=113012034084680806752&rtpof=true&sd=true).<br>
+Check the test cases in Jira [here](https://drive.google.com/drive/folders/1fdoT9pVajjMiJvvk4mO_qtsc7E9EYBlS?usp=sharing). 
 
 <b>Bug reports and work in Jira</b>
 
-  1. Bug reports of [dietly](https://dietly.pl/):<br>
+  1. Bug reports of [dietly](https://dietly.pl/):<br><br>
 The [dietly](https://dietly.pl/) webshop was used to write test cases.<br>
-Examples of bugs in Jira:
-* [BUG-01](https://1joannatest2.atlassian.net/browse/D1-3)
+Check the bug reports in Jira [here](https://drive.google.com/drive/folders/1cfwQnYtk6SQVduAl2RkNNoaeBL33Nxem?usp=sharing).<br>
 
 <b>Mindmaps and diagrams</b>
 
 <b>Databases</b>
 
-  1. Database of transport companies specializing in the transport of food products<br>
-You can check my database on github repository [here](https://github.com/JoannaZielinska-96/Food-Transportation). 
+  1. Database of transport companies specializing in the transport of food products:<br><br>
+Check the database on github repository [here](https://github.com/JoannaZielinska-96/Food-Transportation). 
 
 ## Courses 
 
