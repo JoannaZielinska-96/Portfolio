@@ -61,11 +61,14 @@ Chrome Dev Tools:
 
 <b>Test cases examples</b>
 
-  1. Test cases of [dietly](https://dietly.pl/):<br><br>
+  1. Test cases of [dietly](https://dietly.pl/):<br>
 The [dietly](https://dietly.pl/) webshop was used to write test cases. 
 <br>You can check my test cases on Google Sheets document [here](https://docs.google.com/spreadsheets/d/1Zlivk_jbTk4BQbYtEU37qjzy5HCWL6jl/edit?usp=sharing&ouid=113012034084680806752&rtpof=true&sd=true).
 
 <b>Bug reports and work in Jira</b>
+
+  1. List of bugs of [dietly](https://dietly.pl/) in Jira:
+* [BUG-01](https://1joannatest2.atlassian.net/browse/D1-3)
 
 <b>Mindmaps and diagrams</b>
 
