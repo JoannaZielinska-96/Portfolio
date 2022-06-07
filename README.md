@@ -23,7 +23,6 @@ I am person who consistently strive to achieve goals and eagerly take on new cha
 <li>API testing</li>
 <li>Creating diagrams and decision tables</li>
 <li>DevTools</li>
-<li>SCRUM</li>
 </ul>
 
 ## Soft Skills
