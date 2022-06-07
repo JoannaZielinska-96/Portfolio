@@ -74,7 +74,8 @@ Check the bug reports in Jira [here](https://drive.google.com/drive/folders/1cfw
 
 <b>Mindmaps and diagrams</b>
 
-* Activity diagram - [a delivery process](https://drive.google.com/file/d/1Yq6q5Ukw73GNYGrrECilq6bBU8ats4ER/view?usp=sharing)
+* An activity diagram<br>
+Check the examples of an activity diagram [here](https://drive.google.com/drive/folders/10bnIcoM0T_vr4_6LS6OlV8yGGTsVO6rJ?usp=sharing.
 
 
 <b>Databases</b>
