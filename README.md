@@ -67,7 +67,9 @@ The [dietly](https://dietly.pl/) webshop was used to write test cases.
 
 <b>Bug reports and work in Jira</b>
 
-  1. List of bugs of [dietly](https://dietly.pl/) in Jira:
+  1. Bug reports of [dietly](https://dietly.pl/):<br>
+The [dietly](https://dietly.pl/) webshop was used to write test cases.<br>
+Examples of bugs in Jira:
 * [BUG-01](https://1joannatest2.atlassian.net/browse/D1-3)
 
 <b>Mindmaps and diagrams</b>
