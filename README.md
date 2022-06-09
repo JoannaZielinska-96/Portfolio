@@ -76,7 +76,7 @@ Check the examples of an activity diagram [here](https://drive.google.com/drive/
 
   1. Database of transport companies specializing in the transport of food products:<br><br>
 Check the database on github repository [here](https://github.com/JoannaZielinska-96/Food-Transportation).<br>
-Check the Entity Relation Diagrams in DBeaver [here](https://drive.google.com/file/d/1hGCmbHxE_ZRvfjwuMt_oA6YYQj6TdLDs/view?usp=sharing).<br>
+Check the Entity Relation Diagrams in DBeaver [here](https://drive.google.com/file/d/1I39v9cLCaGEq6C-PyxYDP1cYVPXNIf9b/view?usp=sharing).<br>
 
 ## Courses 
 
