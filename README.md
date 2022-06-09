@@ -70,13 +70,13 @@ Check the bug reports in Jira [here](https://drive.google.com/drive/folders/1cfw
 <b>Mindmaps and diagrams</b>
 
 * An activity diagram<br>
-Check the examples of an activity diagram [here](https://drive.google.com/drive/folders/10bnIcoM0T_vr4_6LS6OlV8yGGTsVO6rJ?usp=sharing.
-
+Check the examples of an activity diagram [here](https://drive.google.com/drive/folders/10bnIcoM0T_vr4_6LS6OlV8yGGTsVO6rJ?usp=sharing).
 
 <b>Databases</b>
 
   1. Database of transport companies specializing in the transport of food products:<br><br>
-Check the database on github repository [here](https://github.com/JoannaZielinska-96/Food-Transportation). 
+Check the database on github repository [here](https://github.com/JoannaZielinska-96/Food-Transportation).<br>
+Check the Entity Relation Diagrams in DBeaver [here](https://drive.google.com/file/d/1hGCmbHxE_ZRvfjwuMt_oA6YYQj6TdLDs/view?usp=sharing).<br>
 
 ## Courses 
 
