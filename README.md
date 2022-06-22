@@ -42,7 +42,7 @@ I am person who consistently strive to achieve goals and eagerly take on new cha
 <li> <a href="https://www.postman.com/">PostMan</a> - API testing tool;</li>
 <li> <a href="https://www.postgresql.org/">PostgreSQL</a> - a open source object-relational database system;</li> 
 <li> <a href="https://www.atlassian.com/pl/jira">Jira Software</a>, <a href="https://trello.com/">Trello</a> - Issue tracking and project management tool;</li> 
-  <li> <a href="https://www.bizagi.com/en/platform/modeler">Bizagi Modeler"</a> - Business process management (BPM);</li>
+  <li> <a href="https://www.bizagi.com/en/platform/modeler">Bizagi Modeler</a> - Business process management (BPM);</li>
   <li> <a href="https://www.microsoft.com/pl-pl/microsoft-365/visio/flowchart-software">Microsoft Visio</a> - Flowchart and diagramming software; 
   <li> <a href="https://miro.com/">Miro</a> - Online whiteboard for team collaboration; </li>
 <li> <a href="https://mockaroo.com/">Mockaroo</a> - Test data generator and API mocking tool;</li>
