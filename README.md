@@ -1,4 +1,4 @@
-# Portfolio
+<h1>Portfolio</h1>
 
   1. [About me](#about-me)
   2. [Tech skills](#tech-skills)
@@ -8,13 +8,13 @@
   6. [Courses](#courses)
   7. [Linkedin](#linkedin)
 
-## About me
+<h2>About me</h2>
 
 Master of science with +3 years experience working in the transportation industry.<br>I seek out new knowledge and actively develop new skills. <br>I am currently self-learning of software testing. 
 
 I am person who consistently strive to achieve goals and eagerly take on new challenges.<br>I've always had an interest in problem solving, so I decided to start learning of software testing. 
 
-## Tech skills
+<h2>Tech skills</h2>
 <ul>
 <li>Manual testing</li>
 <li>Creating test cases</li>
@@ -25,7 +25,7 @@ I am person who consistently strive to achieve goals and eagerly take on new cha
 <li>DevTools</li>
 </ul>
 
-## Soft Skills
+<h2>Soft Skills</h2>
 
 <ul>
   <li>Analytical thinking</li>
@@ -36,7 +36,7 @@ I am person who consistently strive to achieve goals and eagerly take on new cha
   <li>Critical Thinking</li>
 </ul>
 
-## Tools:
+<h2>Tools</h2>
 
 <ul>
 <li> <a href="https://www.postman.com/">PostMan</a> - API testing tool;</li>
@@ -52,7 +52,7 @@ I am person who consistently strive to achieve goals and eagerly take on new cha
 <li><a href="https://chrome.google.com/webstore/detail/bug-magnet/efhedldbjahpgjcneebmbolkalbhckfi?hl=pl">Bug magnet</a> - Exploratory testing tool.</li>
 </ul>
 
-## My projects
+<h2>My projects</h2>
 
 <b>Test cases and work in Jira</b>
 
@@ -78,9 +78,10 @@ Check the examples of an activity diagram [here](https://drive.google.com/drive/
 Check the database on github repository [here](https://github.com/JoannaZielinska-96/Food-Transportation).<br>
 Check the Entity Relation Diagrams in DBeaver [here](https://drive.google.com/file/d/1I39v9cLCaGEq6C-PyxYDP1cYVPXNIf9b/view?usp=sharing).<br>
 
-## Courses 
+<h2>Courses</h2> 
 
 <b>SQL dla początkujących - PostgreSQL</b><br>Created by: Rafał Mobilo<br>[Link to the certificate](https://www.udemy.com/certificate/UC-8cd63188-b62e-4726-8aa6-2d6f1d81ffec/)
 
-## Linkedin
+<h2>Linkedin</h2>
+
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/joannazielinska1996/)  
