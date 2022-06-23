@@ -23,6 +23,7 @@ I am person who consistently strive to achieve goals and eagerly take on new cha
 <li>API testing</li>
 <li>Creating diagrams and decision tables</li>
 <li>DevTools</li>
+  <li>HTML & CSS basics</li>
 </ul>
 
 <h2>Soft Skills</h2>
@@ -77,6 +78,11 @@ Check the examples of an activity diagram [here](https://drive.google.com/drive/
   1. Database of transport companies specializing in the transport of food products:<br><br>
 Check the database on github repository [here](https://github.com/JoannaZielinska-96/Food-Transportation).<br>
 Check the Entity Relation Diagrams in DBeaver [here](https://drive.google.com/file/d/1I39v9cLCaGEq6C-PyxYDP1cYVPXNIf9b/view?usp=sharing).<br>
+
+<b>HTML & CSS Resume</b>
+
+Check my resume [here](https://github.com/JoannaZielinska-96/CSS-HTML-RESUME.git)
+Check my resume as a github repository [here](https://github.com/JoannaZielinska-96/CSS-HTML-RESUME.git)
 
 <h2>Courses</h2> 
 
