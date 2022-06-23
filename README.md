@@ -10,9 +10,9 @@
 
 <h2>About me</h2>
 
-Master of science with +3 years experience working in the transportation industry.<br>I seek out new knowledge and actively develop new skills. <br>I am currently self-learning of software testing. 
+Master of science with +3 years experience working in the transportation industry.<br>I seek out new knowledge and actively develop new skills. <br>'m currently self-learning of software testing. 
 
-I am person who consistently strive to achieve goals and eagerly take on new challenges.<br>I've always had an interest in problem solving, so I decided to start learning of software testing. 
+I'm person who consistently strive to achieve goals and eagerly take on new challenges.<br>I've always had an interest in problem solving, so I decided to start learning of software testing. 
 
 <h2>Tech skills</h2>
 <ul>
