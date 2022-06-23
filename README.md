@@ -81,8 +81,8 @@ Check the Entity Relation Diagrams in DBeaver [here](https://drive.google.com/fi
 
 <b>HTML & CSS Resume</b>
 
-Check my resume [here](https://github.com/JoannaZielinska-96/CSS-HTML-RESUME.git)
-Check my resume as a github repository [here](https://github.com/JoannaZielinska-96/CSS-HTML-RESUME.git)
+  Check my resume [here](https://j-zielinska-resume.netlify.app).<br>
+  Check my resume on github repository [here](https://github.com/JoannaZielinska-96/CSS-HTML-RESUME.git).<br>
 
 <h2>Courses</h2> 
 
