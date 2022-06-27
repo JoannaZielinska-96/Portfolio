@@ -10,7 +10,9 @@
 
 <h2>About me</h2>
 
-Master of science with +3 years experience working in the transportation industry.<br>I seek out new knowledge and actively develop new skills. <br>'m currently self-learning of software testing. 
+Hi there 👋
+
+I'm master of science with +3 years experience working in the transportation industry.<br>I seek out new knowledge and actively develop new skills. <br>I'm currently self-learning of software testing. 
 
 I'm person who consistently strive to achieve goals and eagerly take on new challenges.<br>I've always had an interest in problem solving, so I decided to start learning of software testing. 
 
@@ -57,32 +59,39 @@ I'm person who consistently strive to achieve goals and eagerly take on new chal
 
 <b>Test cases and work in Jira</b>
 
-  1. Test cases of [dietly](https://dietly.pl/):<br><br>
+  1. Test cases of [dietly](https://dietly.pl/):<br>
+  
 The [dietly](https://dietly.pl/) webshop was used to write test cases.<br>
-Check the test cases on Google Sheets document [here](https://docs.google.com/spreadsheets/d/1Zlivk_jbTk4BQbYtEU37qjzy5HCWL6jl/edit?usp=sharing&ouid=113012034084680806752&rtpof=true&sd=true).<br>
-Check the test cases in Jira [here](https://drive.google.com/drive/folders/1fdoT9pVajjMiJvvk4mO_qtsc7E9EYBlS?usp=sharing). 
+
+👉 Find the test cases on Google Sheets document [here](https://docs.google.com/spreadsheets/d/1Zlivk_jbTk4BQbYtEU37qjzy5HCWL6jl/edit?usp=sharing&ouid=113012034084680806752&rtpof=true&sd=true).</li><br>
+👉 Find the test cases in Jira [here](https://drive.google.com/drive/folders/1fdoT9pVajjMiJvvk4mO_qtsc7E9EYBlS?usp=sharing).
+
 
 <b>Bug reports and work in Jira</b>
 
-  1. Bug reports of [dietly](https://dietly.pl/):<br><br>
+  1. Bug reports of [dietly](https://dietly.pl/):<br>
+  
 The [dietly](https://dietly.pl/) webshop was used to write test cases.<br>
-Check the bug reports in Jira [here](https://drive.google.com/drive/folders/1cfwQnYtk6SQVduAl2RkNNoaeBL33Nxem?usp=sharing).<br>
+
+👉 Find the bug reports in Jira [here](https://drive.google.com/drive/folders/1cfwQnYtk6SQVduAl2RkNNoaeBL33Nxem?usp=sharing).<br>
 
 <b>Mindmaps and diagrams</b>
 
-* An activity diagram<br>
-Check the examples of an activity diagram [here](https://drive.google.com/drive/folders/10bnIcoM0T_vr4_6LS6OlV8yGGTsVO6rJ?usp=sharing).
+  1. An activity diagram:<br>
+  
+👉Find the examples of an activity diagram [here](https://drive.google.com/drive/folders/10bnIcoM0T_vr4_6LS6OlV8yGGTsVO6rJ?usp=sharing).
 
 <b>Databases</b>
 
-  1. Database of transport companies specializing in the transport of food products:<br><br>
-Check the database on github repository [here](https://github.com/JoannaZielinska-96/Food-Transportation).<br>
-Check the Entity Relation Diagrams in DBeaver [here](https://drive.google.com/file/d/1I39v9cLCaGEq6C-PyxYDP1cYVPXNIf9b/view?usp=sharing).<br>
+  1. Database of transport companies specializing in the transport of food products:<br>
+  
+👉Find the database on github repository [here](https://github.com/JoannaZielinska-96/Food-Transportation).<br>
+👉Find the Entity Relation Diagrams in DBeaver [here](https://drive.google.com/file/d/1I39v9cLCaGEq6C-PyxYDP1cYVPXNIf9b/view?usp=sharing).<br>
 
 <b>HTML & CSS Resume</b>
 
-  Check my resume [here](https://j-zielinska-resume.netlify.app).<br>
-  Check my resume on github repository [here](https://github.com/JoannaZielinska-96/CSS-HTML-RESUME.git).<br>
+👉Find my resume [here](https://resume-joannazielinska.netlify.app).<br>
+👉Find my resume on github repository [here](https://github.com/JoannaZielinska-96/CSS-HTML-RESUME.git).<br>
 
 <h2>Courses</h2> 
 
